@@ -1,7 +1,7 @@
 # US Household Income Data Cleaning
 	# 1. Checked and removed duplicates
 	# 2. Identified and fixed issues with spelling of State names
-    # 3. Noticed and fixed values missing in the County column
+   	# 3. Noticed and fixed values missing in the County column
 
 
 select *
