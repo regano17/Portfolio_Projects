@@ -1,5 +1,6 @@
 # World Life Expectancy Project (Exploratory Data Analysis)
 
+  
 select *
 from world_life_expectancy
 ;
